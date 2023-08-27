@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QA_Automation_Challenge", "QA_Automation_Challenge.csproj", "{01A70202-EF88-4B83-92B5-A7DCCA0D525E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01A70202-EF88-4B83-92B5-A7DCCA0D525E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A70202-EF88-4B83-92B5-A7DCCA0D525E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A70202-EF88-4B83-92B5-A7DCCA0D525E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A70202-EF88-4B83-92B5-A7DCCA0D525E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {782E7E95-BB21-4BAD-BF13-42B89BF01320}
+	EndGlobalSection
+EndGlobal
